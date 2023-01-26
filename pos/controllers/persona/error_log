@@ -1,0 +1,12 @@
+[20-Aug-2018 21:58:28 America/Bogota] PHP Notice:  Undefined index: autentificado in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/session.php on line 8
+[20-Aug-2018 21:58:28 America/Bogota] PHP Notice:  Undefined variable: cajaAutorizada in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/session.php on line 10
+[20-Aug-2018 21:58:28 America/Bogota] PHP Notice:  Undefined variable: cajaAutorizada in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/session.php on line 11
+[20-Aug-2018 21:58:28 America/Bogota] PHP Notice:  Undefined variable: cajaAutorizada in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/session.php on line 12
+[20-Aug-2018 21:58:28 America/Bogota] PHP Notice:  Undefined variable: UsuariosCajas in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/session.php on line 13
+[20-Aug-2018 21:58:28 America/Bogota] PHP Fatal error:  Call to a member function actualizaEstadoCajaClose() on null in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/session.php on line 13
+[20-Aug-2018 21:58:29 America/Bogota] PHP Notice:  Undefined index: autentificado in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/session.php on line 8
+[20-Aug-2018 21:58:29 America/Bogota] PHP Notice:  Undefined variable: cajaAutorizada in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/session.php on line 10
+[20-Aug-2018 21:58:29 America/Bogota] PHP Notice:  Undefined variable: cajaAutorizada in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/session.php on line 11
+[20-Aug-2018 21:58:29 America/Bogota] PHP Notice:  Undefined variable: cajaAutorizada in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/session.php on line 12
+[20-Aug-2018 21:58:29 America/Bogota] PHP Notice:  Undefined variable: UsuariosCajas in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/session.php on line 13
+[20-Aug-2018 21:58:29 America/Bogota] PHP Fatal error:  Call to a member function actualizaEstadoCajaClose() on null in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/session.php on line 13

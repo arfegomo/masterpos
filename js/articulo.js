@@ -1,0 +1,35 @@
+$(document).ready(function(){
+$("#articulo-crear").validate({
+		rules:{
+			nombrearticulo:{
+				required:true	
+			},
+			codigoarticulo:{
+				required:true
+			},
+			precioventa1:{
+				required:true
+			},
+			impuestoiva:{
+				required:true
+			},
+			impuestoconsumo:{
+				required:true,
+				email:true
+			},
+			celular:{
+				required:true
+			},
+			usuario:{
+				required:true
+			},
+			password:{
+				required:true
+			},
+			re_password:{
+				required:true,
+				equalTo:"#password"
+			}
+		}
+	});
+});

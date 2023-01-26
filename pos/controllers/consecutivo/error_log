@@ -1,0 +1,7 @@
+[25-Oct-2017 19:37:35 America/Bogota] PHP Notice:  Undefined index: consecutivodian in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/consecutivo/store.php on line 9
+[25-Oct-2017 19:38:55 America/Bogota] PHP Notice:  Undefined index: consecutivodian in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/consecutivo/store.php on line 9
+[25-Oct-2017 19:40:15 America/Bogota] PHP Notice:  Undefined index: consecutivodian in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/consecutivo/store.php on line 9
+[25-Oct-2017 19:41:27 America/Bogota] PHP Notice:  Undefined variable: consecutivodian in /home/elgualil/masterpos.grsystem.com.co/includes/consecutivos.class.php on line 80
+[25-Oct-2017 19:41:41 America/Bogota] PHP Notice:  Undefined variable: consecutivodian in /home/elgualil/masterpos.grsystem.com.co/includes/consecutivos.class.php on line 80
+[25-Oct-2017 19:42:19 America/Bogota] PHP Notice:  Undefined variable: consecutivodian in /home/elgualil/masterpos.grsystem.com.co/includes/consecutivos.class.php on line 80
+[25-Oct-2017 19:43:09 America/Bogota] PHP Notice:  Undefined variable: consecutivodian in /home/elgualil/masterpos.grsystem.com.co/includes/consecutivos.class.php on line 80

@@ -1,0 +1,127 @@
+[20-Sep-2017 23:49:05 America/Bogota] PHP Notice:  Undefined index: autentificado in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/session.php on line 8
+[24-Oct-2017 22:40:35 America/Bogota] PHP Notice:  Undefined index: autentificado in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/session.php on line 8
+[25-Oct-2017 19:44:52 America/Bogota] PHP Fatal error:  Call to undefined method consecutivos::loadConsecutivos() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/create.php on line 15
+[25-Oct-2017 20:31:10 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:31:10 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:32:09 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:32:09 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:32:28 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:32:28 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:32:28 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:32:28 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:32:28 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:33:13 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:33:13 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:33:13 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:33:13 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:33:13 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:33:21 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:33:21 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:33:21 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:33:21 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:33:21 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:33:22 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:33:22 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:33:22 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:33:22 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:33:22 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:33:29 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:33:29 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:33:29 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:33:29 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:33:29 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:33:31 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:33:31 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:33:31 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:33:31 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:33:31 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:33:31 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:33:31 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:33:31 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:33:31 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:33:31 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:33:31 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:33:31 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:33:31 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:33:31 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:33:31 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:33:33 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:33:33 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:33:33 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:33:33 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:33:33 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:33:51 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:33:51 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:34:08 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:34:08 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:34:11 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:34:11 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:34:11 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:34:11 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:34:11 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:34:25 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:34:25 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:34:25 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:34:25 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:34:25 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:34:26 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:34:26 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:34:26 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:34:26 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:34:26 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:34:26 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:34:26 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:34:26 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:34:26 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:34:26 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:34:27 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:34:27 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:34:27 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:34:27 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:34:27 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:34:44 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:34:44 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:35:03 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:35:03 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:35:25 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:35:25 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:35:25 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:35:25 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:35:25 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:35:34 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:35:34 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:35:34 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:35:34 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:35:34 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:35:48 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:35:48 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:35:48 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:35:55 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:35:55 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:35:55 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:35:55 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:35:55 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:35:56 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:35:56 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:35:56 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:35:56 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:35:56 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:36:03 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:36:03 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:36:03 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:36:03 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:36:03 America/Bogota] PHP Fatal error:  Call to undefined method conceptosfacturacion::set_created_at() in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:36:10 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:36:10 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:36:10 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:36:10 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:38:01 America/Bogota] PHP Notice:  Undefined index: nombreconceptofacturacion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 9
+[25-Oct-2017 20:38:01 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82
+[25-Oct-2017 20:38:01 America/Bogota] PHP Notice:  Undefined index: idconsecutivo in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 10
+[25-Oct-2017 20:38:01 America/Bogota] PHP Notice:  Undefined index: idtipotransaccion in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 11
+[25-Oct-2017 20:38:01 America/Bogota] PHP Notice:  Undefined index: acumulador in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 12
+[25-Oct-2017 20:38:01 America/Bogota] PHP Notice:  Undefined index: operacionacumulador in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 13
+[25-Oct-2017 20:38:01 America/Bogota] PHP Notice:  Undefined index: operacioninventario in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 14
+[25-Oct-2017 20:38:01 America/Bogota] PHP Notice:  Undefined index: afectacostoinventario in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 15
+[25-Oct-2017 20:38:01 America/Bogota] PHP Notice:  Undefined index: afectacaja in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/conceptofacturacion/store.php on line 16
+[25-Oct-2017 20:38:48 America/Bogota] PHP Notice:  Undefined variable: nombreconcepto in /home/elgualil/masterpos.grsystem.com.co/includes/conceptosfacturacion.class.php on line 82

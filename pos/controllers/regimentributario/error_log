@@ -1,0 +1,4 @@
+[20-Sep-2017 17:59:06 America/Bogota] PHP Notice:  Undefined variable: Tablas in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/regimentributario/store.php on line 11
+[20-Sep-2017 17:59:06 America/Bogota] PHP Fatal error:  Call to a member function store() on null in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/regimentributario/store.php on line 11
+[20-Sep-2017 18:00:14 America/Bogota] PHP Notice:  Undefined variable: Tablas in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/regimentributario/store.php on line 11
+[20-Sep-2017 18:00:14 America/Bogota] PHP Fatal error:  Call to a member function store() on null in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/regimentributario/store.php on line 11

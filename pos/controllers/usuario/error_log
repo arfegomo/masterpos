@@ -1,0 +1,11 @@
+[30-Nov-2017 22:01:08 America/Bogota] PHP Notice:  Undefined variable: user in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/usuario/delete.php on line 12
+[30-Nov-2017 22:02:05 America/Bogota] PHP Notice:  Undefined variable: user in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/usuario/delete.php on line 12
+[30-Nov-2017 22:02:07 America/Bogota] PHP Notice:  Undefined variable: user in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/usuario/delete.php on line 12
+[30-Nov-2017 22:02:54 America/Bogota] PHP Notice:  Undefined variable: user in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/usuario/delete.php on line 12
+[30-Nov-2017 22:04:13 America/Bogota] PHP Notice:  Undefined variable: user in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/usuario/delete.php on line 12
+[30-Nov-2017 22:04:13 America/Bogota] PHP Notice:  Undefined variable: user in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/usuario/delete.php on line 12
+[30-Nov-2017 22:04:14 America/Bogota] PHP Notice:  Undefined variable: user in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/usuario/delete.php on line 12
+[03-Dec-2017 09:44:44 America/Bogota] PHP Notice:  Undefined variable: user in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/usuario/delete.php on line 12
+[03-Dec-2017 09:44:49 America/Bogota] PHP Notice:  Undefined variable: user in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/usuario/delete.php on line 12
+[03-Dec-2017 09:44:51 America/Bogota] PHP Notice:  Undefined variable: user in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/usuario/delete.php on line 12
+[03-Dec-2017 11:14:58 America/Bogota] PHP Notice:  Undefined index: autentificado in /home/elgualil/masterpos.grsystem.com.co/pos/controllers/session.php on line 8
